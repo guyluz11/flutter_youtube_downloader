@@ -36,7 +36,6 @@ Add to your app manifest.xml file
      
     </application>
 </manifest>
-
 ```
 
 ## Warning
