@@ -9,7 +9,7 @@ import androidx.annotation.NonNull
 import at.huber.youtubeExtractor.VideoMeta
 import at.huber.youtubeExtractor.YouTubeExtractor
 import at.huber.youtubeExtractor.YtFile
-import com.example.tubmate.Constants.DownloadManagerClass
+import com.destinyed.flutter_youtube_downloader.DownloadManagerClass
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware
